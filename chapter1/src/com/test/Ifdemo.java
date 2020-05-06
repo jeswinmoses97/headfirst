@@ -13,7 +13,8 @@ public class Ifdemo {
             System.out.println("You are major");
         }
         else {
-            System.out.println("bye");
+            System.out.println("You are mot allowed to vote");
         }
+        System.out.println("Thank you");
         }
 }
