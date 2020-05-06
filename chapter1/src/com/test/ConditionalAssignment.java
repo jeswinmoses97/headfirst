@@ -10,5 +10,4 @@ public class ConditionalAssignment {
         ConditionalAssignment assignment = new ConditionalAssignment();
         System.out.println(assignment.studentsPerRoom);
     }
-
 }
