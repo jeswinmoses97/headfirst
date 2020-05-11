@@ -15,7 +15,7 @@ public class Calci {
         System.out.println("Enter operation");
         String opp = scanner2.next();
         {
-            int c;
+            float c;
 
             switch (opp) {
                 case "+":
@@ -33,10 +33,7 @@ public class Calci {
                 default:
                     throw new IllegalStateException("Unexpected value: " + opp);
             }
-
-
             System.out.println("result = "+c);
         }
-
     }
 }
