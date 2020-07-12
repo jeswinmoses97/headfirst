@@ -2,7 +2,7 @@ package com.corejava.operator;
 
 public class ArithematicOperation {
     public static void main (String[] agrs){
-        int i,j;
+        long i,j;
         for (j=1;j<101;j++){
             System.out.println(j);
         }
